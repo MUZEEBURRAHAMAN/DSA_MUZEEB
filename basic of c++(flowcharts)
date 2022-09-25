@@ -1,0 +1,68 @@
+Flowcharts
+INTRODUCTION
+Here are the steps that may be followed to solve an algorithmic problem:
+● Analysing the problem statement means making the objective of the
+program clear in our minds like what the input is and what is the required
+output.
+● Sometimes the problems are of complex nature, to make them easier to
+understand, we can break-down the problem into smaller sub-parts.
+● In order to save our time in debugging our code, we should first-of-all write
+down the solution on a paper with basic steps that would help us get a clear
+intuition of what we are going to do with the problem statement.
+● In order to make the solution error-free, the next step is to verify the solution
+by checking it with a bunch of test cases.
+● Now, we clearly know what we are going to do in the code. In this step we will
+start coding our solution on the compiler.
+Basically, in order to structure our solution, we use flowcharts. A flowchart would
+be a diagrammatic representation of our algorithm - a step-by-step approach to
+solve our problem.
+Flowcharts
+Uses of Flowcharts
+➔ Used in documentation.
+➔ Used to communicate one’s solution with others, basically used for group projects.
+1
+➔ To check out at any step what we are going to do and get a clear explanation of the
+flow of statements.
+Flowchart components
+● Terminators
+Mainly used to denote the start point of the program.
+Used to denote the end point of the program.
+● Input/Output
+Used for taking input from the user and store it in variable ‘var’.
+Used to output value stored in variable ‘var’.
+● Process
+Used to perform the operation(s) in the program. For example:
+Sum(2, 3) just performs arithmetic summation of the numbers 2 and
+3.
+● Decision
+Used to make decision(s) in the program means it depends on some
+condition and answers in the form of TRUE(for yes) and FALSE(for
+no).
+2
+● Arrows
+Generally, used to show the flow of the program from one step to another. The
+head of the arrow shows the next step and the tail shows the previous one.
+● Connector
+Used to connect different parts of the program and are used in case of
+break-through. Generally, used for functions(which we will study in our
+further sections).
+Summary
+● Flowcharts are the building-block of any program written in any language.
+● Different shapes used to have different meanings.
+● Every problem can be represented in the form of a flow chart.
+● Sometimes, it becomes a bulky process to represent any program using flowchart.
+In those cases, try to find out the optimal solution to the given problem.
+
+
+
+QUESTION ON FLOWCHARTS
+1-SUM OF TWO NUMBERS
+2-Print n number from a digit
+3-Print prime number for a range
+4-Check Prime or not prime
+5-find gcd
+6-Average of three number
+7-find greatest among a,b,c
+8-Print all fibonacci number 
+9-check fibonacci number
+10-find the digit sum of a number
